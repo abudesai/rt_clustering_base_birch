@@ -1,0 +1,2 @@
+model,dataset_name,purity,ami,dbi,chi,silhouette,elapsed_time_in_minutes
+BIRCH,noisy_circles,0.5066,-0.0,1.1735,2948.2282,0.3631,0.01

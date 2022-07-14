@@ -1,0 +1,2 @@
+model,dataset_name,purity,ami,dbi,chi,silhouette,elapsed_time_in_minutes
+BIRCH,anisotropic,0.5972,0.3013,0.9453,4042.5522,0.3481,0.01

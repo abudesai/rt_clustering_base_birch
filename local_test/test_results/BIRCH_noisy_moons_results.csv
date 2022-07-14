@@ -1,0 +1,2 @@
+model,dataset_name,purity,ami,dbi,chi,silhouette,elapsed_time_in_minutes
+BIRCH,noisy_moons,0.8496,0.4826,0.8634,5017.9199,0.4319,0.01

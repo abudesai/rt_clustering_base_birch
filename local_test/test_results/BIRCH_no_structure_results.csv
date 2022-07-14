@@ -1,0 +1,2 @@
+model,dataset_name,purity,ami,dbi,chi,silhouette,elapsed_time_in_minutes
+BIRCH,no_structure,1.0,-0.0,0.8955,3019.9363,0.3309,0.01

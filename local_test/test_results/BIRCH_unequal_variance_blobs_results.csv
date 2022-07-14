@@ -1,0 +1,2 @@
+model,dataset_name,purity,ami,dbi,chi,silhouette,elapsed_time_in_minutes
+BIRCH,unequal_variance_blobs,0.985,0.9398,0.5627,22589.3235,0.6357,0.01

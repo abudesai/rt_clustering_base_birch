@@ -1,0 +1,7 @@
+model,dataset_name,purity,ami,dbi,chi,silhouette,elapsed_time_in_minutes
+BIRCH,anisotropic,0.5972,0.3013,0.9453,4042.5522,0.3481,0.01
+BIRCH,equal_variance_blobs,0.8376,0.7268,0.7553,4899.9282,0.4324,0.01
+BIRCH,noisy_moons,0.8496,0.4826,0.8634,5017.9199,0.4319,0.01
+BIRCH,noisy_circles,0.5066,-0.0,1.1735,2948.2282,0.3631,0.01
+BIRCH,unequal_variance_blobs,0.985,0.9398,0.5627,22589.3235,0.6357,0.01
+BIRCH,no_structure,1.0,-0.0,0.8955,3019.9363,0.3309,0.01
